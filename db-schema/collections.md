@@ -1,0 +1,6 @@
+students
+questions
+leaderboard
+battles
+badges
+videos
